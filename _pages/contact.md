@@ -1,7 +1,7 @@
 ---
-title: Contact
-subtitle: Personal comes with a built-in contact form that's free and easy to set up.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: Reach Out
+subtitle: Let me know what you're working on!
+description: Reach out and connect.
 featured_image: /images/demo/contact.jpg
 ---
 

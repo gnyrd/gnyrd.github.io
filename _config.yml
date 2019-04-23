@@ -7,9 +7,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  portfolio:
     output: true
-    permalink: /project/:slug
+    permalink: /portfolio/:slug
 
 defaults:
   -
@@ -32,9 +32,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "portfolio"
     values:
-      layout: "project"
+      layout: "portfolio"
 
 markdown: kramdown
 

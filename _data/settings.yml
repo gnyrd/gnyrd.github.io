@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Portfolio'
+    - title: 'Projects'
       url: '/'
     # - title: 'Blog'
     #   url: '/blog/'

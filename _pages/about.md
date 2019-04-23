@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About me
 subtitle: Some details about Ganyard
 description: The nitty gritty
 featured_image: /images/demo/about.jpg

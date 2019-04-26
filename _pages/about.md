@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Some details about Ganyard
+subtitle: Some things I've done
 description: The nitty gritty
 featured_image: /images/demo/about.jpg
 ---

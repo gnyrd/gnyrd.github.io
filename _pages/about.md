@@ -2,7 +2,7 @@
 title: About Me
 subtitle: Some things I've done
 description: The nitty gritty
-featured_image: /images/demo/about.jpg
+featured_image: /images/pages/about.jpg
 ---
 
 ## Features

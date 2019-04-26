@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Some things I've done
+subtitle: A little bit about me.
 description: The nitty gritty
 featured_image: /images/pages/about.jpg
 ---

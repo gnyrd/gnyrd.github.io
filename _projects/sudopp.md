@@ -1,6 +1,6 @@
 ---
-title: 'SudoApp Features'
-subtitle: 'UX/UI Design'
+title: 'SudoApp'
+subtitle: 'Redesign & Features'
 date: 2019-04-29 00:00:00
 description: An app for privacy lorem ipsum dolor sit amet, consectetur adipiscing elit.
 featured_image: '/images/demo/demo-square.jpg'

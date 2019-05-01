@@ -3,7 +3,7 @@ title: 'Silent Circle & Blackphone'
 subtitle: 'Architecture & Design'
 date: 2018-07-29 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/projects/hero-silentcircle.jpg'
+featured_image: '/images/projects/landscape-silentcircle.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)

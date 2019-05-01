@@ -10,7 +10,7 @@ featured_image: '/images/projects/landscape-sudoapp.jpg'
 
 What is Sudo app? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus quis libero id mollis. Proin ultricies sit amet dui eu facilisis.
 
-![](/images/projects/landscape-sudoapp.jpg)
+![](/images/demo/demo-landscape.jpg)
 
 ## The Problem
 

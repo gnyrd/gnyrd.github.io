@@ -4,6 +4,7 @@ subtitle: A little bit about me.
 description: The nitty gritty
 featured_image: /images/pages/about.jpg
 ---
+{% comment %} 
 
 ## Features
 
@@ -26,10 +27,4 @@ We've packed Personal full of powerful features to help showcase your work:
 * Updated and supported by the developers
 
 
-{% comment %} 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
 {% endcomment %} 

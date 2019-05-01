@@ -3,14 +3,14 @@ title: 'SudoApp'
 subtitle: 'Redesign & Features'
 date: 2019-04-29 00:00:00
 description: An app for privacy lorem ipsum dolor sit amet, consectetur adipiscing elit.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/projects/square-sudoapp.jpg'
 ---
 
 ## Privacy Made Simple
 
 What is Sudo app? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus quis libero id mollis. Proin ultricies sit amet dui eu facilisis.
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/projects/landscape-sudoapp.jpg)
 
 ## The Problem
 
